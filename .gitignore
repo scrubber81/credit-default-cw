@@ -1,0 +1,24 @@
+# University course materials (lecture slides, brief, labs) - not ours to publish
+PDF And Cours Mats/
+
+# Jupyter autosave backups
+.ipynb_checkpoints/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets / local config
+.env
+.claude/settings.local.json
+
+# Word / Office lock files created while a document is open
+~$*
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
